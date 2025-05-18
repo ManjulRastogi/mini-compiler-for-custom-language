@@ -1,0 +1,10 @@
+integer x === 5;
+decimal pi === 3.14;
+string name === "Alice";
+
+x === 10;
+name === "Bob";
+
+
+
+
